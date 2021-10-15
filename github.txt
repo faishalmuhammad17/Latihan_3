@@ -1,0 +1,3 @@
+Pengertian Github:
+GitHub adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya. 
+Selain itu, GitHub juga merupakan salah satu storehouse online terbesar di dunia untuk pekerjaan kolaborasi.
