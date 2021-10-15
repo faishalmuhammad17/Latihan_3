@@ -1,3 +1,6 @@
 Pengertian Github:
 GitHub adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya. 
 Selain itu, GitHub juga merupakan salah satu storehouse online terbesar di dunia untuk pekerjaan kolaborasi.
+
+Fugsi Github
+Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
