@@ -4,3 +4,9 @@ Selain itu, GitHub juga merupakan salah satu storehouse online terbesar di dunia
 
 Fugsi Github
 Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
+
+pencipta Github:
+Tom Preston-Werner
+Scott Chacon
+P. J. Hyett
+Chris Wanstrath
